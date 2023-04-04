@@ -1,4 +1,4 @@
-![dbmmodsbr](https://user-images.githubusercontent.com/43226244/227053955-6ac7a158-7af6-4cfb-b5dc-d5baba80928c.png)
+![dbmmodsx](https://user-images.githubusercontent.com/43226244/229943312-26c82d50-2610-4df3-8287-21291e1e3667.png)
 
 # Discord Bot Maker v2 - ADDONS - BRASIL
 
